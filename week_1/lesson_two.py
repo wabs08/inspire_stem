@@ -1,0 +1,8 @@
+print("my name is wabs")
+print("i am 18 years old")
+print("i love cooking,painting,singing")
+print("i come from Thika")
+print(".....................")
+print("*********************")
+print("#####################")
+print("---------------------")
